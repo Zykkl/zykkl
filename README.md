@@ -34,6 +34,7 @@ You can reach me via:
 - [Discord](discord.com/users/673634598441320449)
 - [E-Mail](mailto:alex.zykl@pm.me)
 - [Twitter](https://twitter.com/Zykkl_)
+
 I'll try to reply as soon as possible.
 
 #
