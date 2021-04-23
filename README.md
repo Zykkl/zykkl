@@ -31,7 +31,7 @@ I'm looking to learn JavaScript and C++.
 ## Contact
 
 You can reach me via:
-- [Discord](discord.com/users/673634598441320449)
+- [Discord](https://discord.com/users/673634598441320449)
 - [E-Mail](mailto:alex.zykl@pm.me)
 - [Twitter](https://twitter.com/Zykkl_)
 
