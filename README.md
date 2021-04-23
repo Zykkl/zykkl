@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Zykkl/zykkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Heyo! 👋
+
+## Me
+
+I'm Alex or Zykl, a 13 year old teen tryna code random stuff.
+I like to play Floorball and Basketball. I leave my PC once every 3 months so ye.
+
+
+## Coding
+
+I currently code Python, Dart and HTML/CSS if you consider than a language.
+I am a Bot/Web Developer for [Hyped](https://discord.gg/xRM9vmCBpv), a small Discord Community.
+I'm looking to learn JavaScript and C++.
+
+## Contact
+
+You can reach me via:
+- [Discord](discord.com/users/673634598441320449)
+- [E-Mail](mailto:alex.zykl@pm.me)
+- [Twitter](https://twitter.com/Zykkl_)
+I'll try to reply as soon as possible.
+
+#
+That's all about me. Cya around!
