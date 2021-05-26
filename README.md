@@ -28,6 +28,9 @@ I currently code Python, Dart and HTML/CSS if you consider than a language.
 I am a Bot/Web Developer for [Hyped](https://discord.gg/xRM9vmCBpv), a small Discord Community.
 I'm looking to learn JavaScript and C++.
 
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zykkl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 
 You can reach me via:
