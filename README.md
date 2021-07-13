@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 ## Me
 
-I'm Alex or Zykl, a 13 year old teen tryna code random stuff.
+I'm Alex or Zykl, a 14 year old teen tryna code random stuff.
 I like to play Floorball and Basketball. I leave my PC once every 3 months so ye.
 
 
 ## Coding
 
 I currently code Python, Dart and HTML/CSS if you consider than a language.
-I am a Bot/Web Developer for [Hyped](https://discord.gg/zR3qeUzKfK), a small Discord Community.
+I am a Bot/Web Developer for [UtopiaGaming](https://discord.gg/T83yjs2FV5), a small Discord Community.
 I'm looking to learn JavaScript and C++.
 
 ## Stats
