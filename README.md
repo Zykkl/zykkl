@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Me
 
-I'm Alex or Zykl, a 14 year old teen tryna code random stuff.
+I'm Alex or Zykkl, a 14 year old teen tryna code random stuff.
 I like to play Floorball and Basketball. I leave my PC once every 3 months so ye.
 
 
