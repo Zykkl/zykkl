@@ -25,7 +25,7 @@ I like to play Floorball and Basketball. I leave my PC once every 3 months so ye
 ## Coding
 
 I currently code Python, Dart and HTML/CSS if you consider than a language.
-I am a Bot/Web Developer for [UtopiaGaming](https://discord.gg/T83yjs2FV5), a small Discord Community.
+I am a Web Developer for [UtopiaGaming](https://discord.gg/T83yjs2FV5), a small Discord Community.
 I'm looking to learn JavaScript and C++.
 
 ## Stats
