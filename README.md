@@ -1,43 +1,23 @@
-<!--
-**Zykkl/zykkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Heyo! I'm Alex 👋
 
-Here are some ideas to get you started:
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zykkl&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykkl&hide=css&layout=compact&theme=vue-dark">
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> • 
+  	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> • 
+	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> •
+	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> •
+	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> •
+	<img align="center" height="32em" width="32em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
+##
+<div>
+	<a href="mailto:alex.zykl@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+	<a href="https://twitter.com/Zykkl_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
 
-# Heyo! 👋
-
-## Me
-
-I'm Alex or Zykkl, a 14 year old teen tryna code random stuff.
-I like to play Floorball and Basketball. I leave my PC once every 3 months so ye.
-
-
-## Coding
-
-I currently code Python, Dart and HTML/CSS if you consider than a language.
-I am a Web Developer for [UtopiaGaming](https://discord.gg/T83yjs2FV5), a small Discord Community.
-I'm looking to learn JavaScript and C++.
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zykkl)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
-
-You can reach me via:
-- [E-Mail](mailto:alex.zykl@pm.me)
-- [Twitter](https://twitter.com/Zykkl_)
-
-I'll try to reply as soon as possible.
-
-#
-That's all about me. Cya around!
+  ![Snake animation](https://github.com/zykkl/zykkl/blob/output/github-contribution-grid-snake.svg)
