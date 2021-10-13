@@ -16,7 +16,7 @@
 
 ##
 
-<a align="right" href="https://app.daily.dev/Zykkl"><img src="https://github.com/Zykkl/zykkl/blob/main/devcard.svg" width="300" alt="Chris Bongers's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/Zykkl"><img src="https://github.com/Zykkl/zykkl/blob/main/devcard.svg" width="300" alt="Zykkl's Dev Card"/></a>
 
 ##
 <div>
