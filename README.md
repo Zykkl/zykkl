@@ -15,10 +15,6 @@
 </div>
 
 ##
-
-<a align="right" href="https://app.daily.dev/Zykkl"><img src="https://github.com/Zykkl/zykkl/blob/main/devcard.svg" width="300" alt="Zykkl's Dev Card"/></a>
-
-##
 <div>
 	<a href="https://t.me/Zykkl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 	<a href="mailto:alex.zykl@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
