@@ -12,5 +12,9 @@ It's just some funny stuff but since I'm a mainly .md writer, I enjoy how some p
 
 Just send a mail to [zybadge@zykkl.tk](mailto:zybadge@zykkl.tk) and wait for a response. It shouldn't take more than 72 hours to get the badge. If it does I'll let you know in time.
 
+## Can't anyone just copy the code to their own file without you knowing?
+
+They can but it won't help much because I will make a list with all approved documentations or other files.
+
 ## Approvals
 <a href="https://github.com/Zykkl/zykkl/blob/main/zyApproved.md#zyapproved-" class="no_underline"><img src="https://us-east-1.tixte.net/uploads/zykkl.hates-you.xyz/zyApproved-nobg.png"  width="32" height="32" align="center"> <span>ZyApproved Documentation</span></a>
